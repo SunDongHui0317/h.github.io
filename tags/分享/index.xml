@@ -18,9 +18,9 @@
 安装依赖 推荐使用 brew 进行安装
 brew install hugo 当然，官网也有其他安装方式。
 创建你的 GitHub Pages 首先，你需要一个 GihHub 账号，这没什么好说的，接着，按照以下步骤，创建你的 GitHub Pages：
- 新建仓库：仓库名格式须符合正则表达式 /**.github.io/，切记勾选 Add a README file。 设置主题：点击 Settings 进入设置页面，点击 Pages，进入 GitHub Pages，选择 master 分支，点击按钮 Change theme，选择一个临时主题（这很重要），如果你有自己的域名，也可以在自定义域名处填写自己的域名，点击Save。  看到 Your site is published at https://*** 了吗？稍等片刻后，你可以就可以看到自己的 GitHub Pages 了。
+新建仓库：仓库名格式须符合正则表达式 /**.github.io/，切记勾选 Add a README file。 设置主题：点击 Settings 进入设置页面，点击 Pages，进入 GitHub Pages，选择 master 分支，点击按钮 Change theme，选择一个临时主题（这很重要），如果你有自己的域名，也可以在自定义域名处填写自己的域名，点击Save。 看到 Your site is published at https://*** 了吗？稍等片刻后，你可以就可以看到自己的 GitHub Pages 了。
 用 Hugo &amp;ldquo;重构&amp;quot;你的 GitHub Pages 作为一个有追求的人，官方简单的主题显然不能满足我们的需求，作为一个不重复造轮子的懒人（智者），推荐使用 Hugo，遵循以下步骤：
- 使用  hugo new site myBlog # myBlog 是你的目录名。 命令新建一个 Hugo 网站。 2.</description>
+使用 hugo new site myBlog # myBlog 是你的目录名。 命令新建一个 Hugo 网站。 2.</description>
     </item>
     
   </channel>
